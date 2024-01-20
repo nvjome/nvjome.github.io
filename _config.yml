@@ -22,7 +22,7 @@ title: Nolan's Site
 # email: your-email@example.com
 author: Nolan Jome
 description: >- # this means to ignore newlines until "baseurl:"
-  Floundering through life one failure at a time.
+  Stuff I do I guess.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
