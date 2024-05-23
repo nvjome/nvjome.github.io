@@ -2,7 +2,7 @@
 layout: post
 title:  "AR-15 Bolt Catch Problems"
 date:   2024-01-20
-categories: guns projects
+tags: guns projects
 ---
 
 I recently built an AR-15, which was quite a learning experience and ultimately turned out great. But along the way, I had one issue with the bolt holdback feature not working correctly.
